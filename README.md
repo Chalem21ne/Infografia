@@ -1,2 +1,0 @@
-# Infografia
-infografia programacion
